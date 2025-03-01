@@ -37,6 +37,7 @@ def get_alphabet(text):
     return sorted(set(text))
 
 
+
 # Функція для підрахунку частоти символів
 def get_char_frequencies(text):
     return Counter(text)
