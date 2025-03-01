@@ -36,7 +36,7 @@ alphabet2 = ['A',
 def get_alphabet(text):
     return sorted(set(text))
 
-
+print('new_changes')
 
 # Функція для підрахунку частоти символів
 def get_char_frequencies(text):
